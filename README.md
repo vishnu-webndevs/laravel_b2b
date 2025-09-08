@@ -39,7 +39,7 @@ The application uses numerical status values for vendor requests:
 
 To refresh the database and apply all migrations:
 ```bash
-php artisan migrate:refresh --seed
+php artisan migrate --seed
 ```
 
 ## Contributing
